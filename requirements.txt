@@ -1,0 +1,9 @@
+#Contains all the libraries required in the project
+pandas
+numpy
+seaborn
+flask
+typing
+scikit-learn
+datetime
+-e .

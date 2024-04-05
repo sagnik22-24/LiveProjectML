@@ -1,0 +1,2 @@
+#This contains the names of those files which we do not want to upload on github
+venv
