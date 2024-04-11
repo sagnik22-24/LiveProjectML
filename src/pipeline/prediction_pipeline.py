@@ -64,6 +64,5 @@ class CustomData:
              except Exception as e:
                   logging.info("Error occured in get_data_as_dataframe function in prediction_pipeline")
                   raise CustomException(e,sys) 
-             
-             
+                      
         
